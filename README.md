@@ -16,7 +16,7 @@ Ein Discord Bot, der Musik von YouTube streamt mit Queue-System, Loop, Lautstär
 ## Installation
 
 1. Stelle sicher, dass Python 3.10.11 installiert ist.
-2. Installiere die Abhängigkeiten: `pip install -r requirements.txt`
+2. Installiere die Abhängigkeiten: `py -m pip install -r requirements.txt`
 3. Installiere FFmpeg (für Audio-Streaming):
    - Windows: Lade von https://ffmpeg.org/download.html herunter und füge zum PATH hinzu.
 4. Setze die Umgebungsvariable `DISCORD_BOT_TOKEN` auf deinen Bot-Token.
